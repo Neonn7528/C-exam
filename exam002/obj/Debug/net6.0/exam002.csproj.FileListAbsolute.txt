@@ -1,0 +1,15 @@
+C:\Users\neonn\Desktop\C-exam\exam002\bin\Debug\net6.0\exam002.exe
+C:\Users\neonn\Desktop\C-exam\exam002\bin\Debug\net6.0\exam002.deps.json
+C:\Users\neonn\Desktop\C-exam\exam002\bin\Debug\net6.0\exam002.runtimeconfig.json
+C:\Users\neonn\Desktop\C-exam\exam002\bin\Debug\net6.0\exam002.dll
+C:\Users\neonn\Desktop\C-exam\exam002\bin\Debug\net6.0\exam002.pdb
+C:\Users\neonn\Desktop\C-exam\exam002\obj\Debug\net6.0\exam002.csproj.AssemblyReference.cache
+C:\Users\neonn\Desktop\C-exam\exam002\obj\Debug\net6.0\exam002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neonn\Desktop\C-exam\exam002\obj\Debug\net6.0\exam002.AssemblyInfoInputs.cache
+C:\Users\neonn\Desktop\C-exam\exam002\obj\Debug\net6.0\exam002.AssemblyInfo.cs
+C:\Users\neonn\Desktop\C-exam\exam002\obj\Debug\net6.0\exam002.csproj.CoreCompileInputs.cache
+C:\Users\neonn\Desktop\C-exam\exam002\obj\Debug\net6.0\exam002.dll
+C:\Users\neonn\Desktop\C-exam\exam002\obj\Debug\net6.0\refint\exam002.dll
+C:\Users\neonn\Desktop\C-exam\exam002\obj\Debug\net6.0\exam002.pdb
+C:\Users\neonn\Desktop\C-exam\exam002\obj\Debug\net6.0\exam002.genruntimeconfig.cache
+C:\Users\neonn\Desktop\C-exam\exam002\obj\Debug\net6.0\ref\exam002.dll
